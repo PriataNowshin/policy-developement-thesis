@@ -1,0 +1,44 @@
+{
+  "experiment": "fusion_guided_controlled_capability_validation",
+  "study": "Chapter 5 Study 3 Pathway 3",
+  "model_type": "CodeBERT-AST fusion",
+  "model_dir": "../ast/llm-code-update-risk-predictor/output/codebert_ast_fusion_top2",
+  "evaluation_report": "../ast/llm-code-update-risk-predictor/output/codebert_ast_fusion_top2/evaluation_report.json",
+  "test_predictions": "../ast/llm-code-update-risk-predictor/output/codebert_ast_fusion_top2/test_predictions.json",
+  "test_manifest": "../ast/llm-code-update-risk-predictor/output/codebert_ast_fusion_top2/test_manifest.json",
+  "expected_metrics": {
+    "validation_macro_f1": 0.6112061648445745,
+    "test_accuracy": 0.588302752293578,
+    "test_macro_f1": 0.5875971714520309
+  },
+  "expected_model_config": {
+    "hidden_dim": 128,
+    "gnn_layers": 2,
+    "fusion_dim": 128,
+    "fusion_hidden_dim": 128,
+    "dropout": 0.3,
+    "num_relations": 4,
+    "num_labels": 3,
+    "unfrozen_codebert_layers": 2,
+    "train_codebert_embeddings": false
+  },
+  "expected_test_confusion_matrix": [
+    [198, 62, 32],
+    [87, 160, 47],
+    [66, 65, 155]
+  ],
+  "expected_best_validation_epoch": 2,
+  "expected_training_stop_epoch": 6,
+  "required_model_artifacts": [
+    "model_trainable.pt",
+    "evaluation_report.json",
+    "test_predictions.json",
+    "test_manifest.json",
+    "percentile_thresholds.json",
+    "label_mapping.json",
+    "vocabularies.json",
+    "edge_type_mapping.json",
+    "run_config.json",
+    "tokenizer"
+  ]
+}

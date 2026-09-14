@@ -1,0 +1,28 @@
+Respondent ID,"By choosing ""I give my consent"" below, you are indicating that you
+
+Have read and understand the Consent Form provided to you.
+Consent to participate in the research project.
+Understand that a copy of this consent form is available to you for your records.
+
+Do you give your consent?",Please select your age group.,To which gender identity do you most identify?,Which country are you currently living in?,Which of the following best describes your current role or affiliation in the software industry?,,How many years of expertise do you have in a leadership/managerial role?,What is the size of your organization based on the number of employees?,What best describes your role in incorporating policies or rules for technology adoption in your organization?
+,Response,Response,Response,Open-Ended Response,Response,Other (please specify),Response,Response,Response
+1.1002E+11,I give my consent,25 - 34,Man,Bangladesh,CEO / Founder / Executive Director,,7 - 10 years,11-50,Fully responsible - I directly create and enforce policies.
+1.1002E+11,I give my consent,25 - 34,Man,Bangladesh,Engineering Manager / Team Lead,,More than 10 years,11-50,"Consultative role - I provide input or advice, but final decisions are made by others."
+1.1002E+11,I give my consent,35 - 44,Man,Canada,CEO / Founder / Executive Director,,More than 10 years,51-200,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,35 - 44,Man,Bangladesh,Project / Product Manager,,More than 10 years,11-50,"Consultative role - I provide input or advice, but final decisions are made by others."
+1.1002E+11,I give my consent,35 - 44,Man,Bangladesh,CEO / Founder / Executive Director,,More than 10 years,11-50,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,35 - 44,Man,Canada,Engineering Manager / Team Lead,,More than 10 years,1001+,"Consultative role - I provide input or advice, but final decisions are made by others."
+1.1002E+11,I give my consent,45 - 54,Man,Bangladesh,CEO / Founder / Executive Director,,More than 10 years,11-50,Fully responsible - I directly create and enforce policies.
+1.1002E+11,I give my consent,35 - 44,Woman,Ireland,CTO / VP of Engineering,,More than 10 years,1001+,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,35 - 44,Man,Germany,Engineering Manager / Team Lead,,7 - 10 years,51-200,"Consultative role - I provide input or advice, but final decisions are made by others."
+1.1002E+11,I give my consent,35 - 44,Man,Bangladesh,Engineering Manager / Team Lead,,7 - 10 years,501-1000,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,35 - 44,Man,Bangladesh,CEO / Founder / Executive Director,,7 - 10 years,1-10,Fully responsible - I directly create and enforce policies.
+1.1002E+11,I give my consent,25 - 34,Man,Bangladesh,Engineering Manager / Team Lead,,4 - 6 years,11-50,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,45 - 54,Man,South Korea,Project / Product Manager,,1 - 3 years,1001+,Shared / Advisory role - I contribute to policy design or enforcement but share responsibility with others.
+1.1002E+11,I give my consent,35 - 44,Man,Bangladesh ,Project / Product Manager,,More than 10 years,501-1000,"Consultative role - I provide input or advice, but final decisions are made by others."
+,,,,,,,,,
+,,25-34 = 21.43%,Man = 92.86%,,CEO / Founder / Executive Director = 35.71%,,1-3 years = 7.14%,1-10 = 7.14%,Fully responsible = 21.43%
+,,35-44 = 64.29%,Woman = 7.14%,,Engineering Manager / Team Lead = 35.71%,,4-6 years = 7.14%,11-50 = 42.86%,Consultative role = 35.71%
+,,45-54 = 14.29%,,,Project / Product Manager = 21.43%,,7-10 years = 28.57%,51-200 = 14.29%,Shared / Advisory role = 42.86%
+,,,,,CTO / VP of Engineering = 7.14%,,More than 10 years = 57.14%,501-1000 = 14.29%,
+,,,,,,,,1001+ = 21.43%,

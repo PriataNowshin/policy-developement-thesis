@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+venv/
+.venv/
+
+.idea/
+data/
+output/
+data_50/
+output_50/

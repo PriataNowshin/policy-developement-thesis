@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+venv/
+.venv/
+
+output/
+output_bk/

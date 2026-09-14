@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+venv/
+.venv/
+
+data/
+output/
+output_ast/

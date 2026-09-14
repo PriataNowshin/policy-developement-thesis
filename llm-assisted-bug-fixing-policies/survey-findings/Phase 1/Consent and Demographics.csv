@@ -1,0 +1,99 @@
+Respondent ID,"By choosing ""I give my consent"" below, you are indicating that you
+
+Have read and understand the Consent Form provided to you.
+Consent to participate in the research project.
+Understand that a copy of this consent form is available to you for your records.
+
+Do you give your consent?",Please select your age group.,To which gender identity do you most identify?,"Including education, how many years of programming experience do you have?","NOT including education, how many years of professional programming experience (for example, industry experience, commercial freelancing, or participation in recognized open-source projects) do you have in software development?",What is your current professional affiliation?,,"Please indicate your level of experience in using LLMs (such as ChatGPT, Claude, Gemini, etc.) for bug fixing.",How frequently do you use LLMs for bug fixing?,Please select your level of support for using LLMs in the bug-fixing process.
+,Response,Response,Response,Response,Response,Response,Other (please specify),Response,Response,Response
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Neutral
+1.1002E+11,I give my consent,18 - 24,Woman,4 - 6 years,1 - 3 years,Industry - Software Development,,Less than 1 year,Frequently (a few times per week),Neutral
+1.1002E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Strongly support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,More than 2 years,Always (almost daily),Strongly support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Somewhat support
+1.1002E+11,I give my consent,35 - 44,Man,More than 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Industry - Software Development,,Less than 1 year,Frequently (a few times per week),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,Less than 1 year,Always (almost daily),Strongly support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Neutral
+1.1002E+11,I give my consent,25 - 34,Woman,7 - 10 years,4 - 6 years,Industry - Software Development,,More than 2 years,Always (almost daily),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.1002E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Academia,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - QA,,More than 2 years,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,18 - 24,Man,More than 10 years,1 - 3 years,Student,,More than 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,18 - 24,Woman,1 - 3 years,Less than 1 year,Unemployed,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Student,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - QA,,Less than 1 year,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Academia,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Occasionally (a few times per month),Neutral
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - QA,,More than 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,7 - 10 years,1 - 3 years,Student,,1 - 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,1 - 3 years,Less than 1 year,Academia,,Less than 1 year,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - QA,,More than 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Academia,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,1 - 3 years,Less than 1 year,Industry - QA,,More than 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - QA,,More than 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,4 - 6 years,Student,,More than 2 years,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,1 - 3 years,1 - 3 years,Industry - QA,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,18 - 24,Man,4 - 6 years,Less than 1 year,Industry - QA,,1 - 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,Less than 1 year,Industry - QA,,Less than 1 year,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Academia,,Less than 1 year,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Neutral
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Neutral
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,Less than 1 year,Industry - QA,,Less than 1 year,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,7 - 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,More than 10 years,1 - 3 years,Industry - Software Development,,1 - 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,18 - 24,Man,4 - 6 years,1 - 3 years,Freelance,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Student,,1 - 2 years,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,7 - 10 years,Less than 1 year,Academia,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,7 - 10 years,4 - 6 years,Academia,,1 - 2 years,Occasionally (a few times per month),Neutral
+1.10019E+11,I give my consent,25 - 34,Man,Less than 1 year,Less than 1 year,Other (please specify),Product Manager ,Less than 1 year,Occasionally (a few times per month),Neutral
+1.10019E+11,I give my consent,18 - 24,Man,4 - 6 years,Less than 1 year,Unemployed,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Industry - QA,,Less than 1 year,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,More than 10 years,4 - 6 years,Student,,More than 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,7 - 10 years,Less than 1 year,Academia,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Academia,,Less than 1 year,Occasionally (a few times per month),Somewhat support
+1.10019E+11,I give my consent,18 - 24,Woman,4 - 6 years,4 - 6 years,Student,,More than 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,4 - 6 years,Student,,1 - 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,18 - 24,Man,1 - 3 years,1 - 3 years,Industry - Software Development,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,18 - 24,Man,4 - 6 years,4 - 6 years,Student,,Less than 1 year,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Student,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,1 - 3 years,Academia,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Academia,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Academia,,More than 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,18 - 24,Man,4 - 6 years,Less than 1 year,Student,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,1 - 3 years,Less than 1 year,Student,,More than 2 years,Always (almost daily),Neutral
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Academia,,Less than 1 year,Occasionally (a few times per month),Strongly support
+1.10019E+11,I give my consent,18 - 24,Woman,4 - 6 years,Less than 1 year,Student,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,Less than 1 year,Unemployed,,1 - 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Academia,,1 - 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Academia,,More than 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,18 - 24,Man,7 - 10 years,1 - 3 years,Other (please specify),Industry - AI/ML Engineer,More than 2 years,Always (almost daily),Strongly support
+1.10019E+11,I give my consent,18 - 24,Man,1 - 3 years,Less than 1 year,Student,,More than 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,4 - 6 years,1 - 3 years,Industry - Software Development,,More than 2 years,Frequently (a few times per week),Strongly support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,1 - 3 years,Academia,,More than 2 years,Always (almost daily),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,1 - 3 years,Less than 1 year,Industry - Software Development,,1 - 2 years,Frequently (a few times per week),Neutral
+1.10019E+11,I give my consent,25 - 34,Man,More than 10 years,Less than 1 year,Student,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Student,,1 - 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Student,,More than 2 years,Frequently (a few times per week),Somewhat support
+1.10019E+11,I give my consent,25 - 34,Man,7 - 10 years,4 - 6 years,Student,,More than 2 years,Occasionally (a few times per month),Neutral
+1.10019E+11,I give my consent,25 - 34,Woman,4 - 6 years,Less than 1 year,Academia,,Less than 1 year,Always (almost daily),Strongly support
+,,,,,,,,,,
+,,,,Less than 1 year = 1.19%,,Other = 2.38%,,,,
+,,,,1 - 3 years = 9.52%,,Academia = 20.24%,,,,
+,,18-24 = 15.48%,,4 - 6 years = 51.19%,Less than 1 year = 27.38%,Industry - QA = 13.10%,,Less than 1 year = 16.67%,Always (almost daily) = 36.90%,Strongly support = 40.48%
+,,25-34 = 83.33%,Women = 33.33%,7 - 10 years = 32.14%,1 - 3 years = 47.62%,Industry - Software Development = 38.10%,,1 - 2 years = 52.38%,Frequently (a few times per week) = 48.81%,Somewhat support = 46.43%
+,,35-44 = 1.19%,Men = 66.67%,More than 10 years = 5.95%,4 - 6 years = 25.00%,Student = 21.43%,,More than 2 years = 30.95%,Occasionally (a few times per month) = 14.29%,Neutral = 13.10%
+,,Total = 84,Total = 84,Total = 84,Total = 84,Total = 84,,Total = 84,Total = 84,Total = 84
